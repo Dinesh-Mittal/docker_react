@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           I was changed on feature branch
+          I was also changed against on another feature branch
         </p>
         <a
           className="App-link"
